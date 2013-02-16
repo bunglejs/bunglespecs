@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/ujifgc/pagedown/archive/8778565efa0a83c53b8e0b3ffe3537c5216aa78a.tar.gz",
+        "sha1": "0901d8771900e8dd9705258daee5a3ae88d03674",
+        "installHooks": [
+            [ "wrapDefineCommonJS", "Markdown.Converter.js", "Markdown.Converter.js" ],
+            [ "wrapDefineCommonJS", "Markdown.Sanitizer.js", "Markdown.Sanitizer.js" ]
+        ],
+        "main": "Markdown.Converter.js"
+    }
+}

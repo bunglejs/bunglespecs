@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://raw.github.com/wycats/handlebars.js/1.0.rc.2/dist/handlebars.js",
+        "sha1": "26d345c2bd78f6c5ad8a38cdf135a46ccf06fad7",
+        "dependencies": [ "jquery" ]
+    }
+}

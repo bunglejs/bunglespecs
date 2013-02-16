@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/harvesthq/chosen/archive/v0.9.11.tar.gz",
+        "sha1": "ecd7ccfa69cea8ea4e143b8c1b4f3fe6e17ce2e7",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "chosen/chosen.jquery.js", "chosen/chosen.jquery.js", "jquery as $" ]
+        ],
+        "main": "chosen/chosen.jquery.js"
+    }
+}

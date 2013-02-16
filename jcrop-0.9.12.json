@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/tapmodo/jcrop/archive/v0.9.12.tar.gz",
+        "sha1": "90859e50793d9cd66d614ab9fffe49a1848e717d",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "js/jquery.Jcrop.js", "js/jquery.Jcrop.js", "jquery as $" ]
+        ],
+        "main": "js/jquery.Jcrop.js"
+    }
+}

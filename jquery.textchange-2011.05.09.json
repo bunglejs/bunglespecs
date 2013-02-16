@@ -1,0 +1,10 @@
+{
+    "bungle": {
+        "uri": "http://www.zurb.com/playground/javascripts/plugins/jquery.textchange.min.js",
+        "sha1": "76562c84cdfaacf3d1626f889156cae968c82014",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.textchange.min.js", "jquery.textchange.min.js", "jquery as $" ]
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jzaefferer/jquery-validation/archive/1.11.0.tar.gz",
+        "sha1": "3415b7fc89b3daeeff76c50d2da6e7a8f250dad9",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.validate.js", "jquery.validate.js", "jquery as $" ]
+        ],
+        "main": "jquery.validate.js"
+    }
+}

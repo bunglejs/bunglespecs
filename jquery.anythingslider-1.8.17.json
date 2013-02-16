@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/CSS-Tricks/AnythingSlider/archive/v1.8.17.tar.gz",
+        "sha1": "c302a9d8b3b57af1176151207bab6ef9bc4a574d",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "js/jquery.anythingslider.js", "js/jquery.anythingslider.js", "jquery as $" ]
+        ],
+        "main": "js/jquery.anythingslider.js"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/requirejs/text/archive/2.0.5.tar.gz",
+        "sha1": "2436621a2f7871d0a09e61cb21bcbb6d22a9b89a",
+        "main": "text.js"
+    }
+}

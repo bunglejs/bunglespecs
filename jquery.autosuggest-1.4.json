@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "http://www.drewwilson.com/upload/data/4/autoSuggestv14.zip",
+        "sha1": "91e50b8263d27be983e16bfe6e830db65b48aabb",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.autoSuggest.js", "jquery.autoSuggest.js", "jquery as $" ]
+        ],
+        "main": "jquery.autoSuggest.js"
+    }
+}

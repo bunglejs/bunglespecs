@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://raw.github.com/emberjs/ember.js/release-builds/ember-1.0.0-rc.1.js",
+        "sha1": "a8ee03f5aeb69c4637e0b68a7d0baa1d5097f0fc",
+        "dependencies": [ "handlebars" ]
+    }
+}

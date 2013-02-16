@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/mathiasbynens/jquery-placeholder/archive/2.0.7.tar.gz",
+        "sha1": "0bd8348103d146207872f034154f090365b6d2c4",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.placeholder.js", "jquery.placeholder.js", "jquery as $" ]
+        ],
+        "main": "jquery.placeholder.js"
+    }
+}
