@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/wesnolte/jOrgChart/archive/c8b7864250b94ebe0c7b932806882ed998cdff3c.tar.gz",
+        "sha1": "08eae4e45820128daa49300cceac4f6f0b0d9e50",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.jOrgChart.js", "jquery.jOrgChart.js", "jquery as $" ]
+        ],
+        "main": "jquery.jOrgChart.js"
+    }
+}

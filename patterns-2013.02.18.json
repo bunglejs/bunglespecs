@@ -1,7 +1,8 @@
 {
     "bungle": {
-        "uri": "https://github.com/Patternslib/Patterns/archive/master.tar.gz",
-        "dependencies": [        
+        "uri": "https://github.com/Patternslib/Patterns/archive/5bf29a9d3d6616b5cb631042e71899ca4fe0a527.tar.gz",
+        "sha1": "83e5029bd463c2db2bfa335c0834ef8b73eef84d",
+        "dependencies": [
             "jcrop",
             "jquery",
             "jquery.anythingslider",

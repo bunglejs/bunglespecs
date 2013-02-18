@@ -1,0 +1,8 @@
+{
+    "bungle": {
+        "uri": "http://www.datatables.net/releases/DataTables-1.9.4.zip",
+        "sha1": "3b3ae68f2a1f3cc4a8d9456504bb5847d576571c",
+        "dependencies": [ "jquery" ],
+        "main": "media/js/jquery.dataTables.js"
+    }
+}

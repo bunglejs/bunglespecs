@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "http://tablesorter.com/__jquery.tablesorter.zip",
+        "sha1": "7ac63a057906646a2c3a12aaae5e17e6871f487a",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.tablesorter.js", "jquery.tablesorter.js", "jquery as $" ]
+        ],
+        "main": "jquery.tablesorter.js"
+    }
+}

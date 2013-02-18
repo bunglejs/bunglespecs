@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/downloads/metajack/strophejs/strophejs-1.0.2.tar.gz",
+        "sha1": "53ceaa2d795918f3ee28dbb4cef4357819ef95e6",
+        "main": "strophe.js"
+    }
+}

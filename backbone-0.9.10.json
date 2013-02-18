@@ -1,0 +1,8 @@
+{
+    "bungle": {
+        "uri": "https://github.com/documentcloud/backbone/archive/0.9.10.tar.gz",
+        "sha1": "1e5713277d454936fdabe8cc99c3b317dd1f1a32",
+        "dependencies": [ "underscore" ],
+        "main": "backbone.js"
+    }
+}

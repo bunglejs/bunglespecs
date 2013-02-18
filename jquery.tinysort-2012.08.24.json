@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/Sjeiti/TinySort/archive/44757b3d0b54a46adaa79ee2cebb55b348d56589.tar.gz",
+        "sha1": "a776465982d98bf79b08dce3ee95adab74867660",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "src/jquery.tinysort.js", "src/jquery.tinysort.js", "jquery as $" ]
+        ],
+        "main": "src/jquery.tinysort.js"
+    }
+}

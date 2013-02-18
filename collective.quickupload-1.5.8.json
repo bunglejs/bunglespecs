@@ -1,0 +1,12 @@
+{
+    "bungle": {
+        "uri": "https://github.com/collective/collective.quickupload/archive/1.5.8.tar.gz",
+        "sha1": "8096ab22940a488b931d9cdfb18babb79b13a07d",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "collective/quickupload/browser/static/jquery.uploadify.js", "collective/quickupload/browser/static/jquery.uploadify.js", "jquery as jQuery" ],
+            [ "wrapDefine", "collective/quickupload/browser/static/fileuploader.js", "collective/quickupload/browser/static/fileuploader.js", "./jquery.uploadify", "./helpers", "./swfobject" ]
+        ],
+        "main": "collective/quickupload/browser/static/fileuploader.js"
+    }
+}

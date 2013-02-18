@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/documentcloud/underscore/archive/1.4.4.tar.gz",
+        "sha1": "870ff3b67f848b19318ffbde4e038e6dd1caa9c9",
+        "main": "underscore.js"
+    }
+}

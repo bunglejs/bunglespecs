@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/bitwiseshiftleft/sjcl/archive/dbdef434e76c3f16835f3126a7ff1c717b1ce8af.tar.gz",
+        "sha1": "e49d60d4bb2ebc33618bd7e6f8f2df61dfb2ec5e",
+        "main": "sjcl.js"
+    }
+}

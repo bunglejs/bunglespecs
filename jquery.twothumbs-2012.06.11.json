@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/eleddy/cioppino.twothumbs/archive/9262fce78526b9941b644780033c8540e6bd4bb7.tar.gz",
+        "sha1": "ed9b261fe2d11892f93f1b540d88539365eb2d9f",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "cioppino/twothumbs/browser/javascripts/twothumbs.js", "cioppino/twothumbs/browser/javascripts/twothumbs.js", "jquery as jQuery" ]
+        ],
+        "main": "cioppino/twothumbs/browser/javascripts/twothumbs.js"
+    }
+}
