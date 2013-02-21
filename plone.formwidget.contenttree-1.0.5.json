@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/plone/plone.formwidget.contenttree/archive/1.0.5.tar.gz",
+        "sha1": "018ceb2b0ad1b019302457b45a99166c62444dd8",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "plone/formwidget/contenttree/jquery-contenttree/contenttree.js", "plone/formwidget/contenttree/jquery-contenttree/contenttree.js", "jquery as jQuery" ]
+        ],
+        "main": "plone/formwidget/contenttree/jquery-contenttree/contenttree.js"
+    }
+}
