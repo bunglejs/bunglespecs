@@ -5,7 +5,7 @@
         "dependencies": [ "jquery" ],
         "installHooks": [
             [ "wrapDefine", "collective/quickupload/browser/static/jquery.uploadify.js", "collective/quickupload/browser/static/jquery.uploadify.js", "jquery as jQuery" ],
-            [ "append", "collective/quickupload/browser/static/fileuploader.js", "collective/quickupload/browser/static/fileuploader.js", "return qq;" ],
+            [ "append", "collective/quickupload/browser/static/fileuploader.js", "collective/quickupload/browser/static/fileuploader.js", "window.qq = qq;\nreturn qq;" ],
             [ "wrapDefine", "collective/quickupload/browser/static/fileuploader.js", "collective/quickupload/browser/static/fileuploader.js", "./jquery.uploadify", "./helpers", "./swfobject" ]
         ],
         "main": "collective/quickupload/browser/static/fileuploader.js"
