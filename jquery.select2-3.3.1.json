@@ -6,6 +6,6 @@
         "installHooks": [
             [ "wrapDefine", "select2.js", "select2.js", "jquery as jQuery" ]
         ],
-        "main": "src/select2.js"
+        "main": "select2.js"
     }
 }
