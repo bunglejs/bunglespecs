@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/shower/shower/archive/a1f4f768087c8d486628b922ae90c7e8f520fadf.tar.gz",
+        "sha1": "03f6c635581ccc016af72a9ca85963c8ff57d2fb",
+        "main": "shower.js"
+    }
+}
