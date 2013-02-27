@@ -4,7 +4,8 @@
         "sha1": "3415b7fc89b3daeeff76c50d2da6e7a8f250dad9",
         "dependencies": [ "jquery" ],
         "installHooks": [
-            [ "wrapDefine", "jquery.validate.js", "jquery.validate.js", "jquery as $" ]
+            [ "wrapDefine", "jquery.validate.js", "jquery.validate.js", "jquery as $" ],
+            [ "wrapDefine", "additional-methods.js", "additional-methods.js", "jquery as jQuery", "./jquery.validate" ]
         ],
         "main": "jquery.validate.js"
     }
