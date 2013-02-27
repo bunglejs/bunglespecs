@@ -1,0 +1,26 @@
+{
+    "bungle": {
+        "uri": "https://github.com/Patternslib/Patterns/archive/master.tar.gz",
+        "dependencies": [
+            "jcrop",
+            "jquery",
+            "jquery.anythingslider",
+            "jquery.autosuggest",
+            "jquery.chosen",
+            "jquery.form",
+            "jquery.fullcalendar",
+            "jquery.placeholder",
+            "jquery.textchange",
+            "jquery.validation",
+            "less",
+            "logging",
+            "modernizr",
+            "pagedown",
+            "pagedown-extra",
+            "prefixfree",
+            "text",
+            "tinymce"
+        ],
+        "main": "src/main"
+    }
+}
