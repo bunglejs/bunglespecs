@@ -12,7 +12,7 @@
             "jquery.placeholder",
             "jquery.textchange",
             "less",
-            "logging",
+            "logging-2013.02.28",
             "modernizr",
             "pagedown",
             "pagedown-extra",
