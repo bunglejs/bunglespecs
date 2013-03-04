@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/ivaynberg/select2/archive/fb69e3a3f0691d49232189361f643fc574316a2d.tar.gz",
+        "sha1": "6869b896e3d0b3e337f358bf61be00e6efc8ec47",
+        "dependencies": ["jquery"],
+        "installHooks": [
+            [ "wrapDefine", "select2.js", "select2.js", "jquery as jQuery" ]
+        ],
+        "main": "select2.js"
+    }
+}
