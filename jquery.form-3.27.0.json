@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/malsup/form/archive/baf27ebc8cc20a5d7a5090cc8be34bade7d7a231.tar.gz",
+        "sha1": "8e0540fda0cb37b3db8641d28ccf825d489d5793",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "jquery.form.js", "jquery.form.js", "jquery as $" ]
+        ],
+        "main": "jquery.form.js"
+    }
+}
