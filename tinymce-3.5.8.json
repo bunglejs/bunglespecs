@@ -2,6 +2,9 @@
     "bungle": {
         "uri": "http://github.com/downloads/tinymce/tinymce/tinymce_3.5.8.zip",
         "sha1": "2ba2f8d72f81c2247bf5a13a7975ea1ae36ccf28",
+        "installHooks": [
+            [ "replaceRegex", "jscripts/tiny_mce/tiny_mce_src.js", "jscripts/tiny_mce/tiny_mce_src.js", "editableDoc.documentElement", "editableDoc.body" ]
+        ],
         "main": "jscripts/tiny_mce/tiny_mce_src.js"
     }
 }
