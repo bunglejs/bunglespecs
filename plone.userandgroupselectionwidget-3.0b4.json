@@ -4,7 +4,7 @@
         "sha1": "f6983baf8425cfe30cf66cd2d24fd1b01cb1dc2b",
         "dependencies": [ "jquery" ],
         "installHooks": [
-            [ "append", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "window.userandgroupselect_openBrowser = userandgroupselect_openBrowser;" ],
+            [ "append", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "window.userandgroupselect_openBrowser = userandgroupselect_openBrowser;\nwindow.userandgroupselect_setEntry = userandgroupselect_setEntry;" ],
             [ "wrapDefine", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js", "jquery as jQuery" ]
         ],
         "main": "src/Products/UserAndGroupSelectionWidget/skins/userandgroupselectionwidget/userandgroupselect.js"
