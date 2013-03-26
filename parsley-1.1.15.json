@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/guillaumepotier/Parsley.js/archive/1.1.15.zip",
+        "sha1": "ec89afe6a15b2341181369c17dc71dd0889fa8e4",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "parsley.js", "parsley.js", "jquery" ]
+        ],
+        "main": "parsley"
+    }
+}
