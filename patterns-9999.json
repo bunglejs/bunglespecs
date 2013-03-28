@@ -1,6 +1,6 @@
 {
     "bungle": {
-        "uri": "https://github.com/Patternslib/Patterns/archive/master.tar.gz",
+        "uri": "https://github.com/Patternslib/Patterns/archive/maint-v1.2.tar.gz",
         "dependencies": [
             "jcrop",
             "jquery",
