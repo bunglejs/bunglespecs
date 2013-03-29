@@ -5,9 +5,9 @@
 		"dependencies": [
 			"klass"
 		],
-		installHooks: [
-			[ "wrapDefine", "photoswipe.js", "code.photoswipe-3.0.5.js", "klass as klass" ]
+		"installHooks": [
+			[ "wrapDefine", "code.photoswipe-3.0.5.js", "code.photoswipe-3.0.5.js", "klass" ]
 		],
-		"main": "photoswipe.js"
+		"main": "code.photoswipe-3.0.5.js"
 	}
 }
