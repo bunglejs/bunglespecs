@@ -2,6 +2,9 @@
 	"bungle": {
 		"uri": "http://github.com/downloads/codecomputerlove/PhotoSwipe/code.photoswipe-3.0.5.zip",
 		"sha1": "c34113afef73f32001581b5d90e148534896d615",
+		"dependencies": [
+			"klass"
+		],
 		"main": "code.photoswipe-3.0.5.js"
 	}
 }
