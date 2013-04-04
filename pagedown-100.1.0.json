@@ -1,7 +1,7 @@
 {
     "bungle": {
-        "uri": "https://github.com/Patternslib/pagedown/archive/bcc83112722e615eb97edbc6b81bea1c9c17c6a1.tar.gz",
-        "sha1": "9a62b14325bfcc3428ea64f6de2604430a3d3bcf",
+        "uri": "https://github.com/Patternslib/pagedown/archive/b22f8d4c6bd59aa34a0f72780b9b3b7e97253183.tar.gz",
+        "sha1": "32276770c338cd61c9f682d4295b096b1285765d",
         "installHooks": [
             [ "wrapDefineCommonJS", "Markdown.Converter.js", "Markdown.Converter.js" ],
             [ "wrapDefineCommonJS", "Markdown.Sanitizer.js", "Markdown.Sanitizer.js" ]
