@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jmcmanus/pagedown-extra/archive/3615300ace70d2457dba04a8f82cbd0184546e37.tar.gz",
+        "sha1": "615dbf6251aa8d8fd49142a4e34a9faaa7fa5de6",
+        "dependencies": [ "pagedown" ],
+        "installHooks": [
+            [ "wrapDefine", "extra.js", "Markdown.Extra.js", "pagedown as Markdown" ]
+        ],
+        "main": "extra.js"
+    }
+}
