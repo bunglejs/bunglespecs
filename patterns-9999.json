@@ -17,6 +17,7 @@
             "modernizr",
             "pagedown",
             "pagedown-extra",
+            "parsley",
             "prefixfree",
             "text",
             "tinymce"
