@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/Patternslib/shower/archive/f33e1c296eac89410fb6561ab57ea07c1ca4bfbb.tar.gz",
+        "sha1": "daacf277573535bc9250f8d6421ed324f4fcc875",
+        "main": "shower.js"
+    }
+}
