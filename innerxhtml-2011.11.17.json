@@ -1,0 +1,10 @@
+{
+    "bungle": {
+        "uri": "https://github.com/sun/innerXHTML/archive/4b173cbf3047190bdb40c17d224621fe8c9d5896.tar.gz",
+        "sha1": "a63725564099a6fb0e293731e30fdbea291497bc",
+        "installHooks": [
+            [ "append", "innerxhtml.js", "innerxhtml.js", "window.innerXHTML = innerXHTML; \nwindow.translateXHTML = translateXHTML;" ]
+        ],
+        "main": "innerxhtml.js"
+    }
+}
