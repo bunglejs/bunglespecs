@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jcbrand/fine-uploader/archive/3.7.1-build.tar.gz",
+        "sha1": "01159846911df1775d3fd747cded31db8d66e827",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            ["wrapDefine", "jquery.fineuploader-require.js", "jquery.fineuploader.js", "jquery as $"]
+        ],
+        "main": "jquery.fineuploader-require.js"
+    }
+}
