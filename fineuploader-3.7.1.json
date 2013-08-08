@@ -6,6 +6,6 @@
         "installHooks": [
             ["wrapDefine", "jquery.fineuploader-require.js", "build/jquery.fineuploader.js", "jquery as $"]
         ],
-        "main": "build/jquery.fineuploader-require.js"
+        "main": "jquery.fineuploader-require.js"
     }
 }
