@@ -1,6 +1,6 @@
 {
     "bungle": {
-        "uri": "https://devbox:8895/slc.tar.gz",
+        "uri": "http://devbox:8895/slc.tar.gz",
         "dependencies": [
             "jcrop",
             "jquery",
