@@ -6,6 +6,7 @@
             "backbone",
             "backbone.localStorage",
             "jquery.tinysort",
+            "locales",
             "strophe",
             "strophe.muc",
             "strophe.roster",

@@ -1,0 +1,6 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jcbrand/converse.js/archive/ef1a57c6d0927dafe6ae5c02d5ee961a0c2d5e16.tar.gz",
+        "main": "locale/nolocales.js"
+    }
+}
