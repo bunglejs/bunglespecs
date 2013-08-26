@@ -1,0 +1,6 @@
+{
+    "bungle": {
+        "uri": "https://github.com/strophe/strophejs/archive/8e14efdf01856d184f6ba46b3b82c888beacdd98.tar.gz",
+        "main": "strophe.js"
+    }
+}
