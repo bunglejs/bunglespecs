@@ -8,7 +8,7 @@
             "backbone.localStorage",
             "jquery.tinysort",
             "locales",
-            "strophe",
+            "strophe-2012-11-28",
             "strophe.muc",
             "strophe.roster",
             "strophe.vcard",
