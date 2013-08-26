@@ -1,0 +1,6 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jcbrand/strophejs-plugins/archive/75c8693992bc357c699b6d615eeb396e799f5c02.zip",
+        "main": "disco/strophe.disco.js"
+    }
+}
