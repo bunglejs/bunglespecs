@@ -1,6 +1,6 @@
 {
     "bungle": {
-        "uri": "https://github.com/jcbrand/converse.js/archive/1d6f2dbe5adf04ce67e401fb2daa946175172253.tar.gz",
+        "uri": "https://github.com/jcbrand/converse.js/archive/832c2eae90b18a6b9ff9931d536e77b8ed395ecb.tar.gz",
         "dependencies": [
             "jquery",
             "backbone",
