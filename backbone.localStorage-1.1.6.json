@@ -1,0 +1,10 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jeromegn/Backbone.localStorage/archive/v1.1.6.tar.gz",
+        "sha1": "9e649e0e62a4d7e5f121fcff6b0512ca1bdb7291",
+        "dependencies": [
+            "backbone"
+        ],
+        "main": "backbone.localStorage.js"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jcbrand/converse.js/archive/5682473426ece260f7a41be89db58dd5498066de.tar.gz",
+        "sha1": "fd3efda16274869820ffdf6d2779ff474cc5c7ba",
+        "dependencies": [
+            "jquery",
+            "backbone",
+            "backbone.localStorage",
+            "jquery.tinysort",
+            "locales",
+            "strophe",
+            "strophe.muc",
+            "strophe.roster",
+            "strophe.vcard",
+            "strophe.disco"
+        ],
+        "main": "converse.js"
+    }
+}

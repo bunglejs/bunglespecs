@@ -1,0 +1,8 @@
+{
+    "bungle": {
+        "uri": "https://github.com/jashkenas/backbone/archive/1.0.0.tar.gz",
+        "sha1": "e57ce03abd6e1baecf0cd682489ee1ccfc805ea0",
+        "dependencies": [ "underscore" ],
+        "main": "backbone.js"
+    }
+}
