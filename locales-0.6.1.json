@@ -1,7 +1,9 @@
 {
     "bungle": {
-        "uri": "https://github.com/jcbrand/converse.js/archive/5682473426ece260f7a41be89db58dd5498066de.tar.gz",
-        "sha1": "fd3efda16274869820ffdf6d2779ff474cc5c7ba",
+        "uri": "https://github.com/jcbrand/converse.js/archive/b61c936790b7d1fb2d5f228b7b1828a2e803650c.tar.gz",
+        "dependencies": [
+            "jed"
+        ],
         "main": "locale/nolocales.js"
     }
 }
