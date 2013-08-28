@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "http://arshaw.com/fullcalendar/downloads/fullcalendar-1.6.3.zip",
+        "sha1": "872182e72e32521c56506dacc62aed45ade7bf8d",
+        "dependencies": [ "jquery" ],
+        "installHooks": [
+            [ "wrapDefine", "fullcalendar/fullcalendar.js", "fullcalendar/fullcalendar.js", "jquery as $" ]
+        ],
+        "main": "fullcalendar/fullcalendar.js"
+    }
+}
