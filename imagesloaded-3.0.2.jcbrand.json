@@ -2,6 +2,10 @@
     "bungle": {
         "uri": "https://github.com/jcbrand/imagesloaded/archive/v3.0.2-jcbrand.tar.gz",
         "sha1": "3f3528d73dcb0668096e1e08810a2a88a7935ef8",
+        "dependencies": [
+            "eventie",
+            "EventEmitter"
+        ],
         "main": "imagesloaded.js"
     }
 }

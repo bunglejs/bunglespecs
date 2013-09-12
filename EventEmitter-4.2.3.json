@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/Wolfy87/EventEmitter/archive/v4.2.3.tar.gz",
+        "sha1": "cb41f26d054ad678440a20221d5c0b229edbaefe",
+        "main": "EventEmitter.js"
+    }
+}

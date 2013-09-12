@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/desandro/eventie/archive/v1.0.3.tar.gz",
+        "sha1": "392b9002a77ec50d7074a58715d706d505094199",
+        "main": "eventie.js"
+    }
+}
