@@ -6,6 +6,22 @@
             "eventie",
             "EventEmitter"
         ],
-        "main": "imagesloaded.js"
+        "installHooks": [
+            [
+            "replaceRegex",
+            "imagesloaded.patched.js",
+            "imagesloaded.js",
+            "'eventEmitter\/EventEmitter'",
+            "'EventEmitter'"
+            ],
+            [
+            "replaceRegex",
+            "imagesloaded.patched.js",
+            "imagesloaded.patched.js",
+            "'eventie\/eventie'",
+            "'eventie'"
+            ]
+        ],
+        "main": "imagesloaded.patched.js"
     }
 }
