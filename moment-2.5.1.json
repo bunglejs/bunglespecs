@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "https://github.com/moment/moment/archive/2.5.1.zip",
+        "sha1": "71b4b23f71296927699cfd91ae1e4c41b637edea",
+        "main": "moment.js"
+    }
+}

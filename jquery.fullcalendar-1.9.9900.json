@@ -1,0 +1,8 @@
+{
+    "bungle": {
+        "uri": "http://arshaw.com/fullcalendar/downloads/fullcalendar-2.0.0-beta2.zip",
+        "sha1": "827fb5fa3c0ddda88e29e7b7324ebc9342f3928a",
+        "dependencies": [ "jquery", "moment" ],
+        "main": "fullcalendar/fullcalendar.js"
+    }
+}

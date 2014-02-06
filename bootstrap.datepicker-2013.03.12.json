@@ -1,0 +1,7 @@
+{
+    "bungle": {
+        "uri": "http://www.eyecon.ro/bootstrap-datepicker/datepicker.zip",
+        "sha1": "f8046406ed297c3d177a71e944ee4d6e8cb9fe49",
+        "main": "js/bootstrap-datepicker.js"
+    }
+}
