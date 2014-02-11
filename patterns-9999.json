@@ -2,10 +2,10 @@
     "bungle": {
         "uri": "https://github.com/Patternslib/Patterns/archive/slc.tar.gz",
         "dependencies": [
+            "bootstrap.datepicker",
             "jcrop",
             "jquery",
             "jquery.anythingslider",
-            "jquery.autosuggest",
             "jquery.chosen",
             "jquery.form",
             "jquery.fullcalendar",
@@ -19,6 +19,8 @@
             "pagedown-extra",
             "parsley",
             "prefixfree",
+            "shower-2013.06.13",
+            "spectrum",
             "text",
             "tinymce"
         ],
