@@ -1,0 +1,11 @@
+{
+    "bungle": {
+        "uri": "https://github.com/moment/moment-timezone/archive/0.0.3.zip",
+        "sha1": "8a12d4e79bcd01465d237d0a7fd0312ba7973fc5",
+        "dependencies": [ "moment" ],
+        "installHooks": [
+            ["replaceRegex", "moment-timezone.js", "moment-timezone.js", "moment-timezone", "moment.timezone"]
+        ],
+        "main": "moment-timezone.js"
+    }
+}
