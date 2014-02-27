@@ -1,7 +1,7 @@
 {
     "bungle": {
-        "uri": "https://github.com/Patternslib/Patterns/archive/51d2de892f213a5f81a1031114663235171929e2.zip",
-        "sha1": "8a0d53aa49a24d9e1cb5eda7def9f97602054cd2",
+        "uri": "https://github.com/Patternslib/Patterns/archive/51d2de892f213a5f81a1031114663235171929e2.tar.gz",
+        "sha1": "af9d1609bb05b558c804aa2e9a38938730dc7c54",
         "dependencies": [
             "jcrop",
             "jquery",
