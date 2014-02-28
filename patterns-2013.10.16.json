@@ -9,7 +9,7 @@
             "jquery.autosuggest",
             "jquery.chosen",
             "jquery.form",
-            "jquery.fullcalendar",
+            "jquery.fullcalendar-1.5.4",
             "jquery.placeholder",
             "jquery.textchange",
             "jquery.validation",
